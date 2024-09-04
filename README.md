@@ -2,7 +2,7 @@
 
 ![Edgar's GitHub stats](https://github-readme-stats.vercel.app/api?username=EdGomes234&theme=monokai&show_icons=true)
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=EdGomes234&layout=compact)
-![monokai_repo](https://github-readme-stats.vercel.app/api/pin/?username=anuraghazra&repo=github-readme-stats&cache_seconds=86400&theme=monokai)
+[![trophy](https://github-profile-trophy.vercel.app/?username=EdGomes234&theme=onedark)](https://github.com/ryo-ma/github-profile-trophy)
 
 
 Here are some ideas to get you started:
