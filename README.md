@@ -1,7 +1,5 @@
 ## Hi there 👋
-<a href="https://github.com/Giingu"><img width="50%" src="https://github-readme-stats.vercel.app/api?username=Giingu&theme=radical&title_color=ff3068?"></a>
-<a href="https://github.com/Giingu"><img width="50%" src="http://github-readme-streak-stats.herokuapp.com/?user=Giingu&theme=radical&date_format=M%20j%5B%2C%20Y%5D&ring=ff3068&fire=ff3068&sideNums=ff3068"></a>
-<!--
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=EdGomes234&hide_progress=true)<!--
 **EdGomes234/EdGomes234** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 Here are some ideas to get you started:
