@@ -1,7 +1,7 @@
 ## Hi there 👋
 
-![Edgar's GitHub stats](https://github-readme-stats.vercel.app/api?username=EdGomes234&theme=graywhite&show_icons=true)
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=EdGomes234&hide_progress=true)<!--
+![Edgar's GitHub stats](https://github-readme-stats.vercel.app/api?username=EdGomes234&theme=monokai&show_icons=true)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=EdGomes234&layout=compact)
 
 Here are some ideas to get you started:
 
