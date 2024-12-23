@@ -4,7 +4,7 @@
 <br>
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=EdGomes234&layout=compact)
 <br>
-[![trophy](https://github-profile-trophy.vercel.app/?username=EdGomes234&theme=onedark)](https://github.com/ryo-ma/github-profile-trophy)
+
 
 
 Here are some ideas to get you started:
