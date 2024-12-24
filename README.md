@@ -7,7 +7,7 @@
 
 |_**Github Stats**_|_**Top Languages**_|
 |-----------|-------------|
-|<img src="https://github-readme-stats.vercel.app/api?username=aryan-upa&show_icons=true&theme=aura"/>|<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=aryan-upa&theme=aura"/>|
+|<img src="https://github-readme-stats.vercel.app/api?username=EdGomes234&show_icons=true&theme=aura"/>|<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=EdGomes234&theme=aura"/>|
 
 ```
 - 👋 Hi, I’m Edgar
