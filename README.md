@@ -1,6 +1,12 @@
 
+|_**𝙴𝚟𝚎𝚛𝚢 𝚂𝚎𝚌𝚘𝚗𝚍 𝙲𝚘𝚞𝚗𝚝𝚜**_|
+|:-----------:|
+ 
+```
+Olá, eu sou o Edgar e atualmente estou cursando Análise e desenvolvimento de Sistemas no Senai.
+Estou na procura de um primeiro emprego na área de tecnologia e programação 
+```
 
- |_**𝙴𝚟𝚎𝚛𝚢 𝚂𝚎𝚌𝚘𝚗𝚍 𝙲𝚘𝚞𝚗𝚝𝚜**_| |_**𝙴𝚟𝚎𝚛𝚢 𝚂𝚎𝚌𝚘𝚗𝚍 𝙲𝚘𝚞𝚗𝚝𝚜**_|
 
 
 
@@ -18,11 +24,3 @@
 </p>
 
  
-```
-- 👋 Hi, I’m Edgar
-- 👀 I’m interested in Computers and Sciences.
-- 🌱 I’m currently learning everything that comes in my way, but particularly Computers. 😅
-- 🏫 I'm currently studying Salesforce Development (Apex & LWC).
-- 💞️ I’m looking to collaborate in the field of Computational Sciences and Developoment of World Society.
-- 📫 You can reach me @ aryan.upadhyay_cs20@gla.ac.in or the mail in my Profile.
-```
