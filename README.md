@@ -7,7 +7,7 @@
 
 
 <div align="center">
- ### My Github Stats:
+ <h1> My Github Stats: </h1>
 </div>
 
 <p align="center">
