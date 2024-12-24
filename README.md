@@ -1,7 +1,10 @@
 ## Hi there 👋
 
-![Edgar's GitHub stats](https://github-readme-stats.vercel.app/api?username=EdGomes234&theme=monokai&show_icons=true)
-<br>
+<p align="center"> 
+ <br>𝙴𝚟𝚎𝚛𝚢 𝚂𝚎𝚌𝚘𝚗𝚍 𝙲𝚘𝚞𝚗𝚝𝚜<br>
+</p>
+
+---
 
 ### My Github Stats:
 
