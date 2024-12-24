@@ -6,9 +6,9 @@
 
 
 
-<div align="center">
+
  <h1> My Github Stats: </h1>
-</div>
+
 
 <p align="center">
   <br/>
