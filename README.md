@@ -2,19 +2,17 @@
 
 ![Edgar's GitHub stats](https://github-readme-stats.vercel.app/api?username=EdGomes234&theme=monokai&show_icons=true)
 <br>
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=EdGomes234&layout=compact)
-<br>
+
+### My Github Stats:
+
+|_**Github Stats**_|_**Top Languages**_|
 
 
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+```
+- 👋 Hi, I’m Edgar
+- 👀 I’m interested in Computers and Sciences.
+- 🌱 I’m currently learning everything that comes in my way, but particularly Computers. 😅
+- 🏫 I'm currently studying Salesforce Development (Apex & LWC).
+- 💞️ I’m looking to collaborate in the field of Computational Sciences and Developoment of World Society.
+- 📫 You can reach me @ aryan.upadhyay_cs20@gla.ac.in or the mail in my Profile.
+```
