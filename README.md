@@ -7,10 +7,11 @@
 
 ### My Github Stats:
 
+<div align="center">
 |_**Github Stats**_|_**Top Languages**_|
 |-----------|-------------|
 |<img src="https://github-readme-stats.vercel.app/api?username=EdGomes234&show_icons=true&theme=aura"/>|<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=EdGomes234&theme=aura"/>|
-
+ </div>
 ```
 - 👋 Hi, I’m Edgar
 - 👀 I’m interested in Computers and Sciences.
