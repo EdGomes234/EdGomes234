@@ -6,7 +6,7 @@
 ### My Github Stats:
 
 |_**Github Stats**_|_**Top Languages**_|
-
+|-----------|-------------|
 
 ```
 - 👋 Hi, I’m Edgar
