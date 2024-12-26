@@ -4,7 +4,7 @@
 <br>
 
 <div align="center">
-<p>
+<h4>
   Olá, eu sou o Edgar, atualmente estou no 3º do Ensino Médio e curso  Análise e Desenvolvimento de Sistemas no Senai.
  
  Estou acostumado com o ambiente de trabalho e prazos, sou cooperativo e tenho experiência com trabalhos em grupo,
@@ -12,7 +12,7 @@
  Estou à procura de um primeiro emprego na área de programação.
  
  Costumo ter como hobbies tocar guitarra🎸, jogar videogame🎮, assistir séries e ler📖.
- </p>
+ </h4>
 </div>
 
 <h3 align="center">Linguagens e ferramentas que eu uso:</h3>
