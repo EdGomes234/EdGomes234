@@ -3,16 +3,17 @@
 </h2>
 <br>
 
-
-```
-          Olá, eu sou o Edgar, atualmente estou no 3º do Ensino Médio e curso  Análise e Desenvolvimento de Sistemas no Senai.
-           Estou acostumado com o ambiente de trabalho e prazos, sou cooperativo e tenho experiência com trabalhos em grupo,
-                                               principalmente envolvendo o método SCRUM. 
-                                     Estou à procura de um primeiro emprego na área de programação.
-
-                          Costumo ter como hobbies tocar guitarra🎸, jogar videogame🎮, assistir séries e ler📖.
-```
-
+<div align="center">
+<p>
+  Olá, eu sou o Edgar, atualmente estou no 3º do Ensino Médio e curso  Análise e Desenvolvimento de Sistemas no Senai.
+ 
+ Estou acostumado com o ambiente de trabalho e prazos, sou cooperativo e tenho experiência com trabalhos em grupo,
+ principalmente envolvendo o método SCRUM. 
+ Estou à procura de um primeiro emprego na área de programação.
+ 
+ Costumo ter como hobbies tocar guitarra🎸, jogar videogame🎮, assistir séries e ler📖.
+ </p>
+</div>
 
 <h3 align="center">Linguagens e ferramentas que eu uso:</h3>
 <p align="center">
@@ -27,7 +28,7 @@
 </p>
 
  <h2> My Github Stats: </h2>
-<p align="center">
+<p>
  <br/>
   <a href="https://github.com/anuraghazra/github-readme-stats"><img alt="EdGomes234's Github Stats" src="https://github-readme-stats.vercel.app/api/?username=EdGomes234&show_icons=true&count_private=true&theme=react&bg_color=1F222E&title_color=7cebf5&icon_color=2d7de4&show_icons=true&border_color=7cebf5&border_radius=10" height="192px"/></a>
   <a href="https://github.com/anuraghazra/github-readme-stats"><img alt="EdGomes234's Top Languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=EdGomes234&langs_count=8&layout=compact&theme=react&bg_color=1F222E&title_color=7cebf5&icon_color=2d7de4&show_icons=true&border_color=7cebf5&border_radius=10" height="192px"/></a>
