@@ -21,8 +21,7 @@
  
 
   [<img src="https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white" align="center">](https://www.linkedin.com/in/edgar-gomes-4bba8823b/)
-
-
+  [<img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" align="center">](https://www.instagram.com/ed_gomes0109/)
 </h3>
 
 <h3 align="center">Linguagens e ferramentas que eu uso:</h3>
