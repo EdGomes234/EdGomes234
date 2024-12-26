@@ -9,6 +9,7 @@
  
  Estou acostumado com o ambiente de trabalho e prazos, sou cooperativo e tenho experiência com trabalhos em grupo,
  principalmente envolvendo o método SCRUM. 
+ 
  Estou à procura de um primeiro emprego na área de programação.
  
  Costumo ter como hobbies tocar guitarra🎸, jogar videogame🎮, assistir séries e ler📖.
