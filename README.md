@@ -16,6 +16,15 @@
  </h4>
 </div>
 
+<h3 align="center">Meus Contatos:
+<br>
+ 
+
+  [<img src="https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white" align="center">](https://www.linkedin.com/in/edgar-gomes-4bba8823b/)
+
+
+</h3>
+
 <h3 align="center">Linguagens e ferramentas que eu uso:</h3>
 <p align="center">
   <img src="https://img.shields.io/badge/-HTML5-E34F26?style=flat-square&logo=HTML5&logoColor=white" alt="HTML5">
