@@ -45,9 +45,10 @@
  <h2> My Github Stats: </h2>
 <p  align="center" >
  <br/>
-  <a href="https://github.com/anuraghazra/github-readme-stats"><img alt="EdGomes234's Github Stats" src="https://github-readme-stats.vercel.app/api/?username=EdGomes234&show_icons=true&count_private=true&theme=react&bg_color=1F222E&title_color=7cebf5&icon_color=2d7de4&show_icons=true&border_color=7cebf5&border_radius=10" height="180px"/></a>
-  <a href="https://github.com/anuraghazra/github-readme-stats"><img alt="EdGomes234's Top Languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=EdGomes234&langs_count=8&layout=compact&theme=react&bg_color=1F222E&title_color=7cebf5&icon_color=2d7de4&show_icons=true&border_color=7cebf5&border_radius=10" height="180px"/></a>
-  <br/>
+ 
+   [![Ashutosh's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=EdGomes234&theme=github-compact)](https://github.com/ashutosh00710/github-readme-activity-graph)
+       
+ <br/>
 </p>
 
  
